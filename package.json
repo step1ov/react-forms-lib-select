@@ -1,6 +1,6 @@
 {
   "name": "react-forms-lib-select",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "./dist/react-forms-lib-select.js",
   "scripts": {
